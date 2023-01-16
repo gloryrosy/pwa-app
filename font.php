@@ -1,0 +1,3 @@
+<?php
+  echo"         The Geographical Information System(GIS) is a tool for managing, analysing, Decision Making by seamlessly combining both spatial and non spatial data.In Tamilnadu,a vast spatial data have been generated through GIS projects are to utilize huge volume of existing data sets for decision making process. Diffrent agencies are developing GIS on different platform leading to inability to scale up and is also not cost effective. One more issue is the source data variation that leads to spatial / locational inaccuracy of information and mismatch in data."
+  ?>
